@@ -1,3 +1,4 @@
+.docker/data/*
 wp-admin
 wp-content
 
@@ -31,3 +32,4 @@ wp-includes
 /wp-signup.php
 /wp-trackback.php
 /xmlrpc.php
+/wp-config-docker.php
